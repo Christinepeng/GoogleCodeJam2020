@@ -36,6 +36,12 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Qualification/pC" />
+      <recent name="$PROJECT_DIR$/src/main/java/Qualification/pB" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
